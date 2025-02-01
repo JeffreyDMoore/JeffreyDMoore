@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**JeffreyDMoore/JeffreyDMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><a href="https://www.linkedin.com/in/JeffreyDavidMoore/" rel="nofollow">Jeffrey D Moore</a>'s IT and Cybersecurity Project Portfolio 🔐</h1><a id="user-content-Jeffrey-Moore-it-and-cybersecurity-project-portfolio-" class="anchor" aria-label="Permalink: Jeff Moore's IT and Cybersecurity Project Portfolio 🔐" href="#Jeff-Moores-it-and-cybersecurity-project-portfolio-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!</p>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> Vulnerability Management Projects</h2><a id="user-content-️-vulnerability-management-projects" class="anchor" aria-label="Permalink: ⚠️ Vulnerability Management Projects" href="#️-vulnerability-management-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><a href="https://github.com/JeffreyDMoore/vulnerability-management-program">Vulnerability Management Program Implementation</a></strong></li>
+<li><strong><a href="https://github.com/JeffreyDMoore/programmatic-vulnerability-remediations">Programmatic Vulnerability Remediations (PowerShell and BASH)</a></strong></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚨 Threat Hunting and Security Operations</h2><a id="user-content--threat-hunting-and-security-operations" class="anchor" aria-label="Permalink: 🚨 Threat Hunting and Security Operations" href="#-threat-hunting-and-security-operations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><a href="https://github.com/JeffreyDMoore/threat-hunting-scenario-tor">Threat Hunting Scenario (Tor Browser Usage)</a></strong></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🤳 Connect With Me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🤳 Connect With Me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://www.youtube.com/c/___________" rel="nofollow"><img align="left" alt="___________ | YouTube" width="22px" src="https://camo.githubusercontent.com/7520747ab2ffa797efddeedb8f0c25f23282007b38d7e777e1801f89b73a4cac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f796f75747562652e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="max-width: 100%;"></a>
+<a href="https://twitter.com/___________" rel="nofollow"><img align="left" alt="___________ | Twitter" width="22px" src="https://camo.githubusercontent.com/533026dfdee621d17e836b92f49bfcd9ad2caa98f94724ce4c113baef804f811/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/___________" rel="nofollow"><img align="left" alt="___________ | LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/___________" rel="nofollow"><img align="left" alt="___________ | Instagram" width="22px" src="https://camo.githubusercontent.com/cd6de81833b9d2f409fda7041274601ec15a3de2004ae99a4a8c021d552bc823/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"></a></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</article>
+  </div>
+</div>
